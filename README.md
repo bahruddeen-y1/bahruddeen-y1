@@ -7,7 +7,6 @@ QA Automation Engineer | Playwright, Cypress & Selenium | Building reliable test
 Welcome to my Software QA Automation portfolio and journey. I focus on building fast, reliable test automation frameworks to minimize software release risks.
 
 * 🌍  I'm based in thailand
-* 🖥️  See my portfolio at [Github](http://github.com/bahruddeen-y1)
 * ✉️  You can contact me at [bahruddeen.y@gmail.com](mailto:bahruddeen.y@gmail.com)
 * 🧠  I'm currently learning Automation Engineer with Playwright
 * 💬  Ask me about Currently deeply focused on mastering Playwright through a self-driven 60-Day Automation Challenge. I am committed to learning, building test frameworks, and pushing code daily to sharpen my QA automation skills.
