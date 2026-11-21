@@ -7,7 +7,8 @@ QA Automation Engineer | Playwright, Cypress & Selenium | Building reliable test
 Welcome to my Software QA Automation portfolio and journey. I focus on building fast, reliable test automation frameworks to minimize software release risks.
 
 * 🌍  I'm based in thailand
-* ✉️  You can contact me at [bahruddeen.ymail.com](mailto:bahruddeen.y@gmail.com)
+* 🖥️  See my portfolio at [Github](http://github.com/bahruddeen-y1)
+* ✉️  You can contact me at [bahruddeen.y@gmail.com](mailto:bahruddeen.y@gmail.com)
 * 🧠  I'm currently learning Automation Engineer with Playwright
 * 💬  Ask me about Currently deeply focused on mastering Playwright through a self-driven 60-Day Automation Challenge. I am committed to learning, building test frameworks, and pushing code daily to sharpen my QA automation skills.
 
@@ -17,11 +18,11 @@ Welcome to my Software QA Automation portfolio and journey. I focus on building 
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/bahruddeen-y1" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/bahruddeen-yeesa" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+<p align="left"> <a href="https://www.linkedin.com/in/bahruddeen-yeesa" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/bahruddeen-y1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bahruddeen-y1&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/"><img src="https://github-readme-streak-stats.herokuapp.com/?user=&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/bahruddeen-y1" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahruddeen-y1&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
